@@ -27,7 +27,7 @@ class RAGModel:
         return scores
 
     
-
+#.
 
 
 def main():
